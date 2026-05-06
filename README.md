@@ -26,6 +26,16 @@ Trains an autonomous driving agent that:
 
 ---
 
+## Architecture
+- Stage 1: Privileged World Model (BEV semantic maps) + Actor-Critic
+- Stage 2: Raw Sensor World Model (6 cameras + IMU) + Actor-Critic  
+- Stage 3: OAIAD — Occlusion-Aware Interactive Agent Prediction
+
+## Hardware
+- NVIDIA Quadro RTX 6000 (24GB VRAM)
+- Training: ~300K steps across 3 stages
+___
+
 ## Stack
 
 `PyTorch` `CARLA` `RL (Actor-Critic)` `BEVFormer` `RSSM` `Mixed Precision` `Python`
