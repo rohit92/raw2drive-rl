@@ -1,0 +1,15 @@
+{"time":"2026-05-06T12:14:13.266270228+05:30","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2026-05-06T12:14:13.266324238+05:30","level":"INFO","msg":"created symlink","path":"/home/user/raw2drive_v3/wandb/offline-run-20260506_121413-yob6l5f9/logs/debug-core.log"}
+{"time":"2026-05-06T12:14:13.484826866+05:30","level":"INFO","msg":"created new stream","id":"yob6l5f9"}
+{"time":"2026-05-06T12:14:13.484854346+05:30","level":"INFO","msg":"stream: started","id":"yob6l5f9"}
+{"time":"2026-05-06T12:14:13.484923966+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"yob6l5f9"}
+{"time":"2026-05-06T12:14:13.484955746+05:30","level":"INFO","msg":"sender: started","stream_id":"yob6l5f9"}
+{"time":"2026-05-06T12:14:13.484960826+05:30","level":"INFO","msg":"handler: started","stream_id":"yob6l5f9"}
+{"time":"2026-05-06T12:14:13.497904971+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2026-05-06T12:14:14.124460725+05:30","level":"INFO","msg":"stream: closing","id":"yob6l5f9"}
+{"time":"2026-05-06T12:14:14.124507475+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2026-05-06T12:14:14.125412895+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2026-05-06T12:14:14.13879915+05:30","level":"INFO","msg":"handler: closed","stream_id":"yob6l5f9"}
+{"time":"2026-05-06T12:14:14.13881943+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"yob6l5f9"}
+{"time":"2026-05-06T12:14:14.1388329+05:30","level":"INFO","msg":"sender: closed","stream_id":"yob6l5f9"}
+{"time":"2026-05-06T12:14:14.13890591+05:30","level":"INFO","msg":"stream: closed","id":"yob6l5f9"}

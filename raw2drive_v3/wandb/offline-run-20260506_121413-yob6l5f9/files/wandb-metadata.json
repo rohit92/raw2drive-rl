@@ -1,0 +1,36 @@
+{
+  "os": "Linux-6.17.0-14-generic-x86_64-with-debian-trixie-sid",
+  "python": "3.7.16",
+  "startedAt": "2026-05-06T06:44:13.259177Z",
+  "program": "<python with no main file>",
+  "root": "/home/user/raw2drive_v3",
+  "host": "aimslab-workstation",
+  "username": "user",
+  "executable": "/home/user/miniconda3/envs/carla_rl/bin/python",
+  "cpu_count": 24,
+  "cpu_count_logical": 48,
+  "gpu": "Quadro RTX 6000",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "244939624448",
+      "used": "34661945344"
+    }
+  },
+  "memory": {
+    "total": "134908502016"
+  },
+  "cpu": {
+    "count": 24,
+    "countLogical": 48
+  },
+  "gpu_nvidia": [
+    {
+      "name": "Quadro RTX 6000",
+      "memoryTotal": "25769803776",
+      "cudaCores": 4608,
+      "architecture": "Turing"
+    }
+  ],
+  "cudaVersion": "13.0"
+}
